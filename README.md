@@ -1,2 +1,2 @@
-# polynomial-interpolation
-Implementations of Lagrange polynomial and Spline interpolation
+# Polynomial Interpolation
+Implementations of Lagrange polynomial and Spline interpolation (university project)
